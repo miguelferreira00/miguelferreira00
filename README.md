@@ -2,9 +2,9 @@
 
 I'm a university student at @FCUL with a passion for technology and coding. Currently, I'm diving deep into various programming languages and exploring different areas of computer science.
 
-- 🔭 I’m currently studying computer engineering at FCUL (Faculdade de Ciências da Universidade de Lisboa)
+- 🔭 I’m currently studying Computer Engineering at FCUL (Faculdade de Ciências da Universidade de Lisboa)
 - ⚡ Fun fact: I enjoy experimenting with new programming languages in my free time!
-- Known programming languages: Java, Javascript, C, Assembly, Haskell,
+- Known programming languages: Java, Javascript, C, PL/SQL, HTML and CSS, Haskell.
 
 <!--
 **miguelferreira00/miguelferreira00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
